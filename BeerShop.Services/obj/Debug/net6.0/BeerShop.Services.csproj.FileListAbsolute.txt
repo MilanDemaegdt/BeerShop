@@ -1,0 +1,34 @@
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\bin\Debug\net6.0\BeerShop.Services.deps.json
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\bin\Debug\net6.0\BeerShop.Services.dll
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\bin\Debug\net6.0\BeerShop.Services.pdb
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\bin\Debug\net6.0\BeerShopDB.Models.dll
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\bin\Debug\net6.0\BeerShopDB.Repositories.dll
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\bin\Debug\net6.0\BeerShopDB.Models.pdb
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\bin\Debug\net6.0\BeerShopDB.Repositories.pdb
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.AssemblyInfoInputs.cache
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.AssemblyInfo.cs
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.csproj.CopyComplete
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.dll
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\obj\Debug\net6.0\refint\BeerShop.Services.dll
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.pdb
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShop.Services\obj\Debug\net6.0\ref\BeerShop.Services.dll
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\bin\Debug\net6.0\BeerShop.Services.deps.json
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\bin\Debug\net6.0\BeerShop.Services.dll
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\bin\Debug\net6.0\BeerShop.Services.pdb
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\bin\Debug\net6.0\BeerShopDB.Models.dll
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\bin\Debug\net6.0\BeerShopDB.Repositories.dll
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\bin\Debug\net6.0\BeerShopDB.Models.pdb
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\bin\Debug\net6.0\BeerShopDB.Repositories.pdb
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.csproj.AssemblyReference.cache
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.AssemblyInfoInputs.cache
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.AssemblyInfo.cs
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.csproj.CopyComplete
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.dll
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\obj\Debug\net6.0\refint\BeerShop.Services.dll
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\obj\Debug\net6.0\BeerShop.Services.pdb
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShop.Services\obj\Debug\net6.0\ref\BeerShop.Services.dll

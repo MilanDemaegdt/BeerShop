@@ -1,0 +1,34 @@
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\bin\Debug\net6.0\BeerShopDB.Repositories.deps.json
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\bin\Debug\net6.0\BeerShopDB.Repositories.runtimeconfig.json
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\bin\Debug\net6.0\BeerShopDB.Repositories.dll
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\bin\Debug\net6.0\BeerShopDB.Repositories.pdb
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\bin\Debug\net6.0\BeerShopDB.Models.dll
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\bin\Debug\net6.0\BeerShopDB.Models.pdb
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.AssemblyInfoInputs.cache
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.AssemblyInfo.cs
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.csproj.CopyComplete
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.dll
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\refint\BeerShopDB.Repositories.dll
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.pdb
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.genruntimeconfig.cache
+C:\Users\Emir\Desktop\school\FULL STACK DEV\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\ref\BeerShopDB.Repositories.dll
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\bin\Debug\net6.0\BeerShopDB.Repositories.deps.json
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\bin\Debug\net6.0\BeerShopDB.Repositories.runtimeconfig.json
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\bin\Debug\net6.0\BeerShopDB.Repositories.dll
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\bin\Debug\net6.0\BeerShopDB.Repositories.pdb
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\bin\Debug\net6.0\BeerShopDB.Models.dll
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\bin\Debug\net6.0\BeerShopDB.Models.pdb
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.csproj.AssemblyReference.cache
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.AssemblyInfoInputs.cache
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.AssemblyInfo.cs
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.csproj.CopyComplete
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.dll
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\refint\BeerShopDB.Repositories.dll
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.pdb
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\BeerShopDB.Repositories.genruntimeconfig.cache
+C:\Users\milan\Downloads\full_stack_oefeningen\BeerShop\BeerShopDB.Repositories\obj\Debug\net6.0\ref\BeerShopDB.Repositories.dll
